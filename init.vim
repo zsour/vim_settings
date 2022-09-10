@@ -19,7 +19,8 @@ Plug 'https://github.com/terryma/vim-multiple-cursors'
 Plug 'https://github.com/preservim/tagbar'
 Plug 'https://github.com/neoclide/coc.nvim'
 Plug 'https://github.com/ervandew/supertab'
-
+Plug 'https://github.com/yuezk/vim-js'
+Plug 'https://github.com/MaxMEllon/vim-jsx-pretty'
 
 call plug#end()
 
